@@ -24,7 +24,7 @@ src="https://img.icons8.com/color/48/000000/javascript.png"/>
 </div>
 <br>
 
-### You can find me in:
+### 🤖 Contact me:
 
  - 📷 <a href="https://www.instagram.com/codesign.dev/"> Instagram </a>
  - 💻 <a href="https://isidoro.vercel.app/"> Portfolio </a>
