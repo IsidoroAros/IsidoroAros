@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hi there 🤟🏻
 
 <p align="center"> 
@@ -34,6 +32,9 @@ src="https://img.icons8.com/color/48/000000/javascript.png"/>
 
 ### You can find me in:
 
+<div align="center" style="display: flex; width: 100%;">
  - 📷 <a href="https://www.instagram.com/codesign.dev/"> Instagram </a>
  - 💻 <a href="https://isidoro.vercel.app/"> Portfolio </a>
  - 📷 <a href="mailto:arostegui.isidoro@gmail.com"> Mail </a>
+</div>
+
