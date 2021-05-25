@@ -24,12 +24,6 @@ src="https://img.icons8.com/color/48/000000/javascript.png"/>
 </div>
 <br>
 
-## Language stats 🤖
-<div align="center" style="display: flex; width: 100%;">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsidoroAros&theme=tokyonight)
-</div>
-
 ### You can find me in:
 
  - 📷 <a href="https://www.instagram.com/codesign.dev/"> Instagram </a>
