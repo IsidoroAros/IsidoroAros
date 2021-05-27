@@ -26,7 +26,7 @@ src="https://img.icons8.com/color/48/000000/javascript.png"/>
 
 ### 🤖 Contact me:
 
- - 📷 <a href="https://www.instagram.com/codesign.dev/"> Instagram </a>
- - 💻 <a href="https://isidoro.vercel.app/"> Portfolio </a>
- - 📷 <a href="mailto:arostegui.isidoro@gmail.com"> Mail </a>
+ - 📷 <a href="https://www.instagram.com/codesign.dev/">   Instagram </a>
+ - 💻 <a href="https://isidoro.vercel.app/">    Portfolio </a>
+ - 📷 <a href="mailto:arostegui.isidoro@gmail.com">    Mail </a>
 
