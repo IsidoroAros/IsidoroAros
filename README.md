@@ -13,8 +13,6 @@ I mainly focus on building <strong>clean and accesible</strong> UI's. I 🖤usin
 <img align="top" height="50px" 
 src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img align="top" height="50px" src="https://img.icons8.com/officel/480/000000/react.png"/>
-<img align="top" height="50px"  src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img align="top" height="50px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <br>
